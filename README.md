@@ -9,10 +9,6 @@ and key performance indicators.
 The project transforms raw business data into an interactive
 dashboard designed to support data-driven performance analysis.
 
-## 📸 Dashboard Preview
-<img width="996" height="554" alt="maven" src="https://github.com/user-attachments/assets/4fb33004-bc26-4e38-b722-e1a53b225379" />
-
-
 ---
 
 ## 🎯 Project Objective
